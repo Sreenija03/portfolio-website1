@@ -1,29 +1,27 @@
-# henryheffernan.com
+# Sreenija Pavuluri's Portfolio Website
 
-This is one of two repositories created for my portfolio website <a href="https://henryheffernan.com/"><samp>henryheffernan.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/henryjeff/portfolio-inner-site"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:henryheffernan@gmail.com">henryheffernan@gmail.com</a></samp> or you can DM me on twitter <a href="https://twitter.com/henryheffernan"><samp>@henryheffernan</samp></a>.
+## Contact Information
+- Email: sreenija.pavuluri@gmail.com
+- Phone: +1 (213) 887-1322
 
-<br>
+## Education
+- USC MS in CS (Aug 2025 - May 2027)
+- GEC BTech CS (CGPA 8.9/10)
 
-To setup a dev environment:
+## Experience Highlights
+- CDAC research intern with 94.3% accuracy on EEG heat stress recognition
+- IISc summer research intern with 98% speaker identification
+- Reliance Jio AI/ML intern with 40% deployment time reduction
 
-```bash
-# Clone the repository
+## Key Projects
+- PAWSOME winner of Stanford TreeHacks with 92% accurate fitness plans
+- Advanced Recommendation Engine with 25% accuracy improvement
 
-# Install dependencies 
-npm i
+## Technical Skills
+- **Languages:** Python, C++, R, MATLAB, SQL, Java, JavaScript
+- **AI & ML:** Deep Learning, Transformers, LLMs, NLP, Computer Vision
+- **Libraries:** PyTorch, TensorFlow, Scikit-learn, OpenCV, React, Flask, Django
+- **Cloud:** AWS, GCP, MLflow, CI/CD
 
-# Run the local dev server
-npm run dev
-```
-
-To serve a production build:
-
-```bash
-# Install dependencies if not already done - 'npi i'
-
-# Build for production
-npm run build
-
-# Serve the build using express
-npm start
-```
+## Setup Instructions
+Instructions for running the development environment.
